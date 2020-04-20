@@ -1387,8 +1387,8 @@ eslint@^5.0.1:
     text-table "^0.2.0"
 
 esm@^3.0.40:
-  version "3.0.61"
-  resolved "https://registry.yarnpkg.com/esm/-/esm-3.0.61.tgz#671dfb8cf57fe63852c191b85d7762d0d0789e00"
+  version "3.2.25"
+  resolved "https://registry.yarnpkg.com/esm/-/esm-3.2.25.tgz#342c18c29d56157688ba5ce31f8431fbb795cc10"
 
 espower-location-detector@^1.0.0:
   version "1.0.0"
